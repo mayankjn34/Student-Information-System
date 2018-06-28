@@ -1,0 +1,17 @@
+SMAP
+marks_jsp.java
+JSP
+*S JSP
+*F
++ 0 marks.jsp
+WEB-INF/marks.jsp
+*L
+1,6:47
+6:12
+6,6:52
+11,29:58
+39,4:87
+42:91
+43,2:92,3
+45,22:98
+*E
